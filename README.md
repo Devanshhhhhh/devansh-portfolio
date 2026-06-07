@@ -13,11 +13,10 @@ I'm a software engineering student with hands-on experience in full-stack web de
 | 2 | **Notepad Clone** | Feature-rich desktop text editor replicating core Notepad functionality | Java, Swing | [View](#) |
 | 3 | **Online Bookstore** | Fully responsive front-end application for an online bookstore with product listing and UI | HTML, CSS, JavaScript | [View](#) |
 | 4 | **EV Maintenance Predictor** | ML model to predict electric vehicle maintenance needs using XGBoost | Python, XGBoost, Pandas | [View](#) |
-| 5 | **Vehicle Fuel Consumption Predictor** | Predictive model estimating vehicle fuel consumption using linear regression | Python, Scikit-learn, Pandas | [View](#) |
-| 6 | **Sudoku Game** | Fully playable Android Sudoku game with puzzle generation and validation | Kotlin, Android Studio | [View](#) |
-| 7 | **MyShop** | Full-stack e-commerce web application with product management, cart, and user authentication | MongoDB, Express, React, Node.js | [View](#) |
-| 8 | **Talent Bridge** | Full-stack job portal with job listings, applications, and recruiter dashboard | MongoDB, Express, React, Node.js | [View](#) |
-| 9 | **Spring Boot Factory Pattern App** | Backend application demonstrating the Factory Design Pattern using Spring Boot | Java, Spring Boot | [View](#) |
+| 5 | **Sudoku Game** | Fully playable Android Sudoku game with puzzle generation and validation | Kotlin, Android Studio | [View](#) |
+| 6 | **MyShop** | Full-stack e-commerce web application with product management, cart, and user authentication | MongoDB, Express, React, Node.js | [View](#) |
+| 7 | **Talent Bridge** | Full-stack job portal with job listings, applications, and recruiter dashboard | MongoDB, Express, React, Node.js | [View](#) |
+| 8 | **Spring Boot Factory Pattern App** | Backend application demonstrating the Factory Design Pattern using Spring Boot | Java, Spring Boot | [View](#) |
 
 📄 Research
 | # | Title              | Description | Link |
