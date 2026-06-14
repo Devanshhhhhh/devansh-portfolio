@@ -4,25 +4,25 @@ Computer Applications Student | Web Developer Intern @ Stac Pro | Python • Jav
 
 🧑‍💻 About Me
 
-I'm a software engineering student with hands-on experience in full-stack web development, mobile app development, machine learning, and data analytics. Currently interning as a Web Developer at Stac Pro, where I audit, optimize, and improve production websites. I enjoy building real-world applications across a wide range of technologies.
+I'm a computer applications student with hands-on experience in full-stack web development, mobile app development, machine learning, and data analytics. Currently interning as a Web Developer at Stac Pro, where I audit, optimize, and improve production websites. I enjoy building real-world applications across a wide range of technologies.
 
 🚀 Projects
 | # | Project Name               | Description | Tech Stack | Link |
 |---|----------------------------|-------------|------------|------|
-| 1 | **Blinkit Sales Dashboard**| Interactive Power BI dashboard analyzing 10 years of Blinkit sales data with trends, KPIs, and insights | Power BI | [View](https://github.com/Devanshhhhhh/blinkit-sales-dashboard) |
+| 1 | **Blinkit Sales Dashboard**| Interactive Power BI dashboard analyzing 10 years of Blinkit sales data with trends, KPIs, and insights | Power BI | [View](https://github.com/didwaniadevansh/blinkit-sales-dashboard) |
 | 2 | **Notepad Clone** | Feature-rich desktop text editor replicating core Notepad functionality | Java, Swing | [View](https://github.com/Devanshhhhhh/notepad-clone-java) |
-| 3 | **Online Bookstore** | Fully responsive front-end application for an online bookstore with product listing and UI | HTML, CSS, JavaScript | [View](https://github.com/Devanshhhhhh/online-bookstore-frontend) |
-| 4 | **EV Maintenance Predictor** | ML model to predict electric vehicle maintenance needs using XGBoost | Python, XGBoost, Pandas | [View](https://github.com/Devanshhhhhh/ev-maintenance-predictor) |
-| 5 | **Sudoku Game** | Fully playable Android Sudoku game with puzzle generation and validation | Kotlin, Android Studio | [View](https://github.com/Devanshhhhhh/sudoku-android) |
-| 6 | **MyShop** | Full-stack e-commerce web application with product management, cart, and user authentication | MongoDB, Express, React, Node.js | [View](https://github.com/Devanshhhhhh/myshop-ecommerce) |
-| 7 | **Talent Bridge** | Full-stack job portal with job listings, applications, and recruiter dashboard | MongoDB, Express, React, Node.js | [View](https://github.com/Devanshhhhhh/talent-bridge-job-portal) |
-| 8 | **Spring Boot Factory Pattern App** | Backend application demonstrating the Factory Design Pattern using Spring Boot | Java, Spring Boot | [View](https://github.com/Devanshhhhhh/spring-boot-factory-pattern) |
-| 9 | **Secure Bank Portal** | A secure banking web portal with user authentication, fund transfer, and transaction history | Java, JSP, Servlets, JDBC, SQL, Tomcat | [View](https://github.com/Devanshhhhhh/secure-bank-portal) |
+| 3 | **Online Bookstore** | Fully responsive front-end application for an online bookstore with product listing and UI | HTML, CSS, JavaScript | [View](https://github.com/didwaniadevansh/online-bookstore-frontend) |
+| 4 | **EV Maintenance Predictor** | ML model to predict electric vehicle maintenance needs using XGBoost | Python, XGBoost, Pandas | [View](https://github.com/didwaniadevansh/ev-maintenance-predictor) |
+| 5 | **Sudoku Game** | Fully playable Android Sudoku game with puzzle generation and validation | Kotlin, Android Studio | [View](https://github.com/didwaniadevansh/sudoku-android) |
+| 6 | **MyShop** | Full-stack e-commerce web application with product management, cart, and user authentication | MongoDB, Express, React, Node.js | [View](https://github.com/didwaniadevansh/myshop-ecommerce) |
+| 7 | **Talent Bridge** | Full-stack job portal with job listings, applications, and recruiter dashboard | MongoDB, Express, React, Node.js | [View](https://github.com/didwaniadevansh/talent-bridge-job-portal) |
+| 8 | **Spring Boot Factory Pattern App** | Backend application demonstrating the Factory Design Pattern using Spring Boot | Java, Spring Boot | [View](https://github.com/didwaniadevansh/spring-boot-factory-pattern) |
+| 9 | **Secure Bank Portal** | A secure banking web portal with user authentication, fund transfer, and transaction history | Java, JSP, Servlets, JDBC, SQL, Tomcat | [View](https://github.com/didwaniadevansh/secure-bank-portal) |
 
 📄 Research
 | # | Title              | Description | Link |
 |---|--------------------|-------------|------|
-| 1 | **Ransomware Research Paper** | Research on automated defense mechanisms against Ransomware as a Service (RaaS) | [View](https://github.com/Devanshhhhhh/ransomware-research-paper) |
+| 1 | **Ransomware Research Paper** | Research on automated defense mechanisms against Ransomware as a Service (RaaS) | [View](https://github.com/didwaniadevansh/ransomware-research-paper) |
 
 🛠️ Skills
 
